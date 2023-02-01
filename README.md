@@ -1,1 +1,3 @@
-# CodeClause_Calculator_in_Python
+# CodeClause Calculator in Python
+
+a simple python calculator (project 1)
